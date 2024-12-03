@@ -33,7 +33,7 @@ pipeline {
 
         stage('print') {
             steps {
-                echo "testing"
+                echo "testing++"
             }
         }
     }
